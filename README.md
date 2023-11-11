@@ -6,9 +6,11 @@ Despite holding a Bachelor's degree in Mechanical Engineering, my diverse traini
 These versatile skills extend beyond the realm of mechanical engineering, making me well-suited for various administrative and office roles. Throughout my three years of studying mechanical engineering, my training primarily focused on industrial maintenance, complemented by proficiency in several software applications.
 ## Software
 Solidworks: I have a deep appreciation for Solidworks due to its brilliance and its position as a leading software in the 3D modeling industry.
+
 Microsoft Excel/Word: Proficient in Microsoft Office, these software tools are indispensable in today's working environment.
+
 Blender : I've taken the initiative to self-learn Blender, and to be honest, I'm still in the early stages of mastering this software. Consider me a beginner. Despite that, I've managed to create a simple donut animation as part of my learning process.
-And this is my graduation project that i 3d modeled on Solidworks.
+
 
 
 
