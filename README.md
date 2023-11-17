@@ -37,7 +37,7 @@ Bachelor of Mechanical Engineering | Higher Institute of Industrial Management o
 
 ## Projects
  **This is my graduation project that I 3d modeled on Solidworks.
- 
+ [Systeme Animation](/assets/Systeme Assembly - Copy.mp4)
 
 
 
