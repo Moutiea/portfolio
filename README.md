@@ -40,6 +40,7 @@ Bachelor of Mechanical Engineering | Higher Institute of Industrial Management o
 ![Systeme Assembly](/assets/Systeme Assembly.png)
 [Systeme Assembly](assets/Systeme Assembly.png)
 You can check out graduation book that has all information about the project but sorry it's in French
+(/assets/PFE Moutie f.docx)
 
 
 
