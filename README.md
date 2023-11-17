@@ -36,8 +36,8 @@ Bachelor of Mechanical Engineering | Higher Institute of Industrial Management o
 -Set up and ran machinery to produce exceptional products for industrial needs.
 
 ## Projects
- **This is my graduation project that I 3d modeled on Solidworks.
- [Systeme Animation](/assets/Systeme Assembly - Copy.mp4)
+ **This is my graduation project that I 3d modeled on Solidworks. 
+[Systeme Animation](/assets/Systeme Assembly - Copy.mp4)
 
 
 
