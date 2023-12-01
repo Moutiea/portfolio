@@ -38,6 +38,27 @@ Bachelor of Mechanical Engineering | Higher Institute of Industrial Management o
 ## Certificates
 Associate Level Preparation Certificate
 ![Associate Level Preparation Certificate](assets/325052736_1527574127712209_4795147721405368553_n.jpg)
+Training Sessions Arduino Level 1 & 2 
+![Training Sessions Arduino Level 1 & 2 ](assets/325059959_1375862123188544_4723451144757372323_n.jpg)
+![Training Sessions Arduino Level 1 & 2 ](assets/325052736_1527574127712209_4795147721405368553_n.jpg)
+High School Degree(Baccalaureat)
+![High School Degree](assets/1122.jpg)
+High School Report Card (Baccalaureat)
+![High School Report Card](assets/2233.jpg)
+Bachelor Degree(Licence nationale)
+![Bachelor Degree](assets/3344.jpg)
+First Year Report Card
+![First Year Report Card](assets/4455.jpg)
+Second Year Report Card
+![Second Year Report Card](assets/5566.jpg)
+Third Year Report Card
+![Third Year Report Card](assets/6677.jpg)
+
+
+
+
+
+
 
 
 
