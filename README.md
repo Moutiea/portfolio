@@ -36,7 +36,9 @@ Bachelor of Mechanical Engineering | Higher Institute of Industrial Management o
 -Set up and ran machinery to produce exceptional products for industrial needs.
 
 ## Certificates
+Associate Level Preparation Certificate
 ![Associate Level Preparation Certificate](assets/325052736_1527574127712209_4795147721405368553_n.jpg)
+
 
 
 ## Projects
