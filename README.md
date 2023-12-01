@@ -35,6 +35,9 @@ Bachelor of Mechanical Engineering | Higher Institute of Industrial Management o
 -Calibrated, tested, and adjusted machine settings or controls in preparation for production operations.
 -Set up and ran machinery to produce exceptional products for industrial needs.
 
+## Certificates
+
+
 ## Projects
  **This is my graduation project that I 3d modeled on Solidworks. 
 ![Systeme Assembly](/assets/Systeme Assembly.png)
